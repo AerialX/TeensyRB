@@ -24,6 +24,8 @@ The parapin library is used to do this and is only compatible with Linux**
 * Linux computer with a parallel port and bluetooth module
 * Teensy device
 * A Wiimote and Guitar Hero guitar
+* A bunch of wires. Shove them into your parallel port, and the other ends
+  go into the Teensy pins.
 
 Running
 -------
@@ -38,6 +40,7 @@ TODO
 ----
 
 Here are some cool things that need to happen in the future.
+
 * Hub support for multiple instruments.
 * Better PC-Teensy communication for more complex features (whammy bar)
 * Tilt-activated Overdrive
